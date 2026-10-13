@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9867398fd9ec560e6b6e725c",
+  "owner": "cnkkspst",
+  "repo": "page-77dd23004e2ebec9ab2accb0",
+  "title": "TG号购买",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "77dd23004e2ebec9ab2accb0",
+      "a": "TG号购买",
+      "b": "",
+      "entity": "TG号购买",
+      "brand": "TG号购买",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e1b81a22bc274162fed05af792a47bdb19e1494b196af41705a911e9ac5b2e64",
+      "content": {
+        "keyword1": "TG号购买",
+        "keyword2": "",
+        "primary_entity": "TG号购买",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号购买提供专业VPN加速器服务，安全稳定的机场订阅与客户端下载。多种套餐选择，享受极速流量和流媒体解锁。",
+          "AI_DESCRIPTION": "TG号购买提供专业VPN加速器服务，安全稳定的机场订阅与客户端下载。多种套餐选择，享受极速流量和流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--blue:#0A2540;--cyan:#00BFFF}body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:linear-gradient(to bottom,#f0f4f8,#e0e7f0);color:#333;line-height:1.6;margin:0;padding:0}main{max-width:800px;margin:0 auto;padding:20px}h1{color:var(--blue);text-align:center;font-size:2.5rem;margin-bottom:20px}h2{color:var(--blue);font-size:1.8rem;margin-top:30px;border-bottom:2px solid var(--cyan);padding-bottom:10px}h3{color:var(--cyan);font-size:1.4rem}.plan{background:#fff;border:2px solid var(--blue);border-radius:8px;padding:20px;margin:20px 0}.featured{border-color:var(--cyan);position:relative}.featured::after{content:\"推荐\";position:absolute;top:-10px;right:20px;background:var(--cyan);color:#fff;padding:5px 10px;border-radius:4px}ul{list-style:none;padding:0}li{padding:8px 0;border-bottom:1px solid #eee}li:last-child{border-bottom:none}.steps{background:#f8f9fa;padding:20px;border-radius:8px;margin:20px 0}.steps ol{counter-reset:step}.steps li{counter-increment:step;position:relative;padding-left:40px;margin-bottom:15px}.steps li:before{content:counter(step);position:absolute;left:0;width:30px;height:30px;background:var(--cyan);color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center}.details{margin:15px 0;border:1px solid #ddd;border-radius:8px;overflow:hidden}summary{padding:15px;background:var(--blue);color:#fff;cursor:pointer;font-weight:bold}summary::-webkit-details-marker{display:none}p{padding:15px;background:#fff}.footer{text-align:center;margin-top:40px;color:#666;font-size:.9rem}</style><main><h1>TG号购买</h1><h2>品牌简介</h2><p>TG号购买为您提供专业的VPN加速器服务。通过购买TG号，我们为您打造稳定、安全的网络加速方案。无论您是个人用户还是企业团队，都能找到适合的套餐计划。</p><h2>使用场景</h2><ul><li>海外旅游：解锁全球流媒体平台，畅享高清视频</li><li>游戏加速：IPLC专线优化网络延迟，提升游戏体验</li><li>远程办公：支持多台设备同时在线，稳定连接</li><li>跨境商务：安全节点保护隐私，加速数据传输</li></ul><h2>我们的套餐计划</h2><div class=\"plan\"><h3>基础版</h3><p>¥15/月 按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版</h3><p>¥35/月 按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p>¥85/月 按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div><h2>配置流程</h2><p>以下是TG号购买的详细配置流程，帮助您快速完成订阅与激活：</p><div class=\"steps\"><ol><li><strong>选择套餐</strong>：根据您的需求选择基础版、旗舰版或团队版。</li><li><strong>完成支付</strong>：支持多种支付方式，安全便捷。</li><li><strong>下载客户端</strong>：访问官网下载官方客户端。</li><li><strong>输入TG号</strong>：使用购买的TG号进行激活订阅。</li><li><strong>连接节点</strong>：选择节点，享受高速加速。</li></ol></div><h2>常见问题</h2><details><summary>什么是TG号购买？</summary><p>TG号购买是一款专注于VPN加速服务的平台，提供稳定节点池和高速流量支持，帮助用户安全上网并解锁海外内容。</p></details><details><summary>如何选择合适的套餐？</summary><p>根据流量需求和设备数量选择：基础版适合轻度使用，旗舰版适合游戏和流媒体重度用户，团队版适合企业大规模使用。</p></details><details><summary>客户端如何下载和激活？</summary><p>在官网首页下载客户端，注册后输入购买的TG号完成激活，即可连接加速节点。</p></details><details><summary>支持哪些设备？</summary><p>基础版支持3台设备，旗舰版支持5台，团队版支持20台设备同时在线。</p></details><details><summary>如何获取售后支持？</summary><p>旗舰版及以上计划提供7x24优先工单支持，团队版有专属客户经理。</p></details><details><summary>流量超出后如何处理？</summary><p>超出部分可续费或升级套餐，具体以官网最新规则为准。</p></details><div class=\"footer\"><p>© 2024 TG号购买 官网下载 | 机场订阅 | VPN加速</p><p>友情链接：合作伙伴网站</p></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "e51212d20c375a4c0d427976baae6b10de3382a496e1ec5ded6f1d7aa560397d",
+          "seo": {
+            "title": "TG号购买 - 机场订阅 VPN加速器 客户端下载 官网",
+            "keywords": "TG号购买, VPN加速器, 机场订阅, 客户端下载, 官网, TG号",
+            "description": "TG号购买提供专业VPN加速器服务，安全稳定的机场订阅与客户端下载。多种套餐选择，享受极速流量和流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "902cwq.cn",
+    "host": "p-6e01a2a08d.902cwq.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a4217d92e3ffcfb90f4808ca4c108585836265771afb5e42c45c04fd15efcb75",
+    "sitemap.xml": "a336c57c0a93da2087842bbb98dc3d7d73774f6e133a7ebe5aff3f829446dcb0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "787bb2375d19963c4f3a92a0d2a232486f4efd9be3b25b96254556d216ca3181",
+    "robots.txt": "4f8772d3e1fee8ac860f37db487d45026c68b4dec87b92ac8f2d3e86c163d1dc",
+    "180607053619bac441769d30a77a9dea.txt": "893669e9212877c46ccefbd6356789d01dfceb0dc472039cecd79266a7699f84"
+  },
+  "revision": "3b38e83f01c9bb35df1d495e29fd22d608c385f5b6429e5f450da3f7e4539631"
+}
